@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**FilipsMasolovs/FilipsMasolovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's nice to meet you.\
+My name is Filipp!\
+I am a web developer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on SAP related projects at @ECENTA
+- 🌱 I’m currently learning Node.JS
+- 👯 I’m looking to collaborate on ambitious or large projects
+- 💬 Ask me about anything
+- 📫 How to reach me: filips.masolovs@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills:
+
+## Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=Less)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS)
+
+## Backend
+![NodeJS](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)  
+
+## Other
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
