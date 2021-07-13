@@ -18,7 +18,7 @@ I am a web developer.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue)
+![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js)
 ![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=Less)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS)
 
