@@ -4,8 +4,8 @@ It's nice to meet you.\
 My name is Filipp!\
 I am a web developer.
 
-- 🔭 I’m currently working on SAP related projects at @ECENTA
-- 🌱 I’m currently learning Node.JS
+- 🔭 I’m currently working on online casino related projects at @OnAirEntertainment
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on ambitious or large projects
 - 💬 Ask me about anything
 - 📫 How to reach me: filips.masolovs@gmail.com
